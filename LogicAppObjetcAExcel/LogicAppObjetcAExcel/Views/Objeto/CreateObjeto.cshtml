@@ -1,0 +1,60 @@
+﻿@model LogicAppObjetcAExcel.Models.Ordenador
+
+@{
+    ViewData["Title"] = "CreateObjeto";
+}
+
+<h1 class="text-center text-success">@ViewData["MENSAJE"]</h1>
+
+<h4>Ordenador</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateObjeto" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdOrdenador" class="control-label"></label>
+                <input asp-for="IdOrdenador" class="form-control" />
+                <span asp-validation-for="IdOrdenador" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gabinete" class="control-label"></label>
+                <input asp-for="Gabinete" class="form-control" />
+                <span asp-validation-for="Gabinete" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PlacaBase" class="control-label"></label>
+                <input asp-for="PlacaBase" class="form-control" />
+                <span asp-validation-for="PlacaBase" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CPU" class="control-label"></label>
+                <input asp-for="CPU" class="form-control" />
+                <span asp-validation-for="CPU" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RAM" class="control-label"></label>
+                <input asp-for="RAM" class="form-control" />
+                <span asp-validation-for="RAM" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TarjetaGrafica" class="control-label"></label>
+                <input asp-for="TarjetaGrafica" class="form-control" />
+                <span asp-validation-for="TarjetaGrafica" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Alimentacion" class="control-label"></label>
+                <input asp-for="Alimentacion" class="form-control" />
+                <span asp-validation-for="Alimentacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

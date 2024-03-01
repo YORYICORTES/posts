@@ -1,0 +1,38 @@
+﻿
+@model List<preVideo>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreatePreVideo">
+
+            <div class="form-group">
+                <label class="control-label">Titulo</label>
+                <input name="Titulo" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Link</label>
+                <input name="Link" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null)
+{
+    <ul class="list-group">
+        @foreach (preVideo pv in Model)
+        {
+            <li class="list-group-item"> Titulo : @pv.Titulo , Link : @pv.Link</li>
+        }
+    </ul>
+}
+else
+{
+    <h1>Cache Redis Vacio</h1>
+}
+

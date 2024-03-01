@@ -1,0 +1,86 @@
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.AssemblyReference.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.AssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorAssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\appsettings.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\libman.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.exe
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.deps.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.runtimeconfig.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.runtimeconfig.dev.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ref\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.Views.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.Views.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\staticwebassets\ChatSignalIr.StaticWebAssets.Manifest.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\staticwebassets\ChatSignalIr.StaticWebAssets.xml
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\scopedcss\bundle\ChatSignalIr.styles.css
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.TagHelpers.input.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.TagHelpers.output.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorCoreGenerate.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Chats\Chat.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorTargetAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorTargetAssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.Views.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ref\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.genruntimeconfig.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.CopyComplete
+C:\Users\Braian\Documents\MASTER TAJAMAR\Visual Studio 2019\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Chats\ListaDeChats.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\appsettings.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\libman.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.exe
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.deps.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.runtimeconfig.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.runtimeconfig.dev.json
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ref\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.Views.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\bin\Debug\net5.0\ChatSignalIr.Views.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.AssemblyReference.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.AssemblyInfoInputs.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.AssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.CoreCompileInputs.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorAssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\staticwebassets\ChatSignalIr.StaticWebAssets.Manifest.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\staticwebassets\ChatSignalIr.StaticWebAssets.xml
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\scopedcss\bundle\ChatSignalIr.styles.css
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.TagHelpers.input.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.TagHelpers.output.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorCoreGenerate.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Chats\Chat.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Chats\ListaDeChats.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorTargetAssemblyInfo.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.RazorTargetAssemblyInfo.cs
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.Views.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ref\ChatSignalIr.dll
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.pdb
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.genruntimeconfig.cache
+C:\Users\Braian\Documents\MASTER TAJAMAR\POST\ChatSignalIr\ChatSignalIr\obj\Debug\net5.0\ChatSignalIr.csproj.CopyComplete
